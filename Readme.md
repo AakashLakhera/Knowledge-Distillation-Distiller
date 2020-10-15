@@ -174,7 +174,7 @@ Other layers are convolutional layers, with 3x3 kernels, stride = 1 and padding 
 
 # Distillation Results:
 
-1. Resnet18 on VGG
+1. Resnet18 on VGG7
 
 ```
 alpha Temperature Accuracy
@@ -188,7 +188,7 @@ alpha Temperature Accuracy
 Resnet18 accuracy: 94.59 %
 VGG7 baseline accuracy: 90.64 %
 ```
-2. VGG16 on VGG
+2. VGG16 on VGG7
 
 ```
 alpha Temperature Accuracy
@@ -199,7 +199,7 @@ alpha Temperature Accuracy
 VGG16 accuracy: 93.10 %
 VGG7 baseline accuracy: 90.64 %
 ```
-3. AvNet on VGG
+3. AvNet on VGG7
 
 ```
 alpha Temperature Accuracy
